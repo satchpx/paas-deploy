@@ -8,3 +8,7 @@ Deploy tools
 # Platform components
 
 # Application
+
+# Centralized Logging
+
+# Centralized Monitoring
